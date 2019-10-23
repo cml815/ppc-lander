@@ -354,3 +354,17 @@ html {
   [hidden] {
     display: none;
   }
+
+  /* Custom styles */
+
+  ul, li {
+      list-style-type: none;
+  }
+
+  .flex {
+      display: flex;
+  }
+
+  .nav-link {
+    width: 2em;
+  }
