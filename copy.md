@@ -15,11 +15,9 @@ CTA
 
 Need web content that attracts traffic and converts?Hire our web content writers for your website or blog!
 
-Fuel Copy is an industry leader with the talent and experience to take your website further to the next level.
+Fuel Copy writes for small companies who desire growth. Our talent and experience will elevate your brand with compelling websites, landing pages and blogs. 
 
- Highest Quality Writers & Editors
- 1600+ Satisfied Authors
- 92% Retention Ratio
- Detailed & Accurate Research
- 100% Original Content
- 100% Copyrights Ownership
+Writers & editors have 10+ years experience
+100% of content is original
+Skilled in search engine optimization
+Free analytics tracking
